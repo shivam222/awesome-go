@@ -1658,6 +1658,7 @@ _Libraries for working with strings._
 - [strutil](https://github.com/ozgio/strutil) - String utilities.
 - [sttr](https://github.com/abhimanyu003/sttr) - cross-platform, cli app to perform various operations on string.
 - [xstrings](https://github.com/huandu/xstrings) - Collection of useful string functions ported from other languages.
+- [fuzzy](https://github.com/sahilm/fuzzy) -  Fuzzy string matching optimized for filenames and code symbols in the style of VSCode, IntelliJ etc.
 
 **[⬆ back to top](#contents)**
 
